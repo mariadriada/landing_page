@@ -45,7 +45,7 @@ function App() {
 
           <div className="box-block color1">            
               <h3>
-                Si usted es un <span class="strong">Lider de equipo</span>
+                Si usted es un <span class="strong">Lider de equipo:</span>
               </h3>
               <ul>
                 <li>
@@ -68,50 +68,116 @@ function App() {
 
           <div className="box-block color2">            
               <h3>
-                Si usted es un <span class="strong">Lider de equipo</span>
+                Si <span class="strong">hace parte de un equipo de trabajo:</span>
               </h3>
               <ul>
                 <li>
-                  ¿Ha sentido frustración por ser incapaz de liderar y sacar lo mejor de su equipo de trabajo?
+                  ¿Tiene dificultades para comunicarse y entenderse con su jefe, por su forma de ser y de actuar?
                 </li>
                 <li>
-                  ¿Ha vivido situaciones conflictivas con personas a su cargo sin saber cómo manejarlas?
+                  ¿Se incómoda trabajando con su jefe, le estresa, quiere salir corriendo y dejar todo tirado?
                 </li>
                 <li>
-                  ¿Le gustaría saber si a quien seleccionó para su equipo de trabajo encajaría en la cultura de la empresa?
+                  ¿Está en situaciones recurrentes de estrés, incumples las metas y te hace infeliz tu trabajo?
                 </li>
                 <li>
-                ¿Busca sobresalir como líder que transforma y dejar huella en los demás?
+                  ¿Se siente responsable de todo lo malo que pasa en la empresa, todo le sale mal, siente inseguridad, “mete las patas” con frecuencia?
                 </li>
               </ul>
               <div className="information">
-                Si cree que lo que nos hace únicos en el mundo es lo que tenemos en nuestra cabeza, puede hacer parte de nuestro diplomado y transformarse para liderar como quiera.
+                Si quiere superar estas situaciones, entender los comportamientos de su jefe y aprender a manejarlos, haga parte de nuestro diplomado y transfórmese para que sea feliz en tu trabajo.
               </div>           
           </div>
 
           <div className="box-block color1">            
               <h3>
-                Si usted es un <span class="strong">Lider de equipo</span>
+                Si usted tiene <span class="strong">un emprendimiento o una empresa:</span>
               </h3>
               <ul>
-                <li className="">
-                  ¿Ha sentido frustración por ser incapaz de liderar y sacar lo mejor de su equipo de trabajo?
+                <li>
+                  ¿Tiene escaso tiempo en el día a día para realizar todas las tareas o actividades programadas?
                 </li>
                 <li>
-                  ¿Ha vivido situaciones conflictivas con personas a su cargo sin saber cómo manejarlas?
+                  ¿Normalmente se lleva trabajo para la casa porque el tiempo en la oficina es insuficiente?
                 </li>
                 <li>
-                  ¿Le gustaría saber si a quien seleccionó para su equipo de trabajo encajaría en la cultura de la empresa?
+                  ¿El trabajo le absorbe y se queda sin tiempo para su familia?
                 </li>
                 <li>
-                ¿Busca sobresalir como líder que transforma y dejar huella en los demás?
+                  ¿Planifica el día a día, o el largo plazo para cumplir con tus metas y objetivos?
+                </li>
+                <li>
+                  ¿No sabes como delegar, sientes que pierdes el control, no confias en tu equipo de trabajo?
+                </li>
+                <li>
+                  ¿Te cuesta manejar el dinero, controlar los gastos, priorizar los gastos y generar ingresos?
+                </li>
+                <li>
+                  ¿Crees que no eres bueno para los negocios, te es difícil cobrar por tus servicios o productos?
+                </li>
+                <li>
+                  ¿Sientes que no te llegan las oportunidades, que no cierras ventas y estas estancado con tu negocio?
                 </li>
               </ul>
               <div className="information">
-                Si cree que lo que nos hace únicos en el mundo es lo que tenemos en nuestra cabeza, puede hacer parte de nuestro diplomado y transformarse para liderar como quiera.
+              Si quieres superar las dificultades, haz parte de nuestro diplomado y transformate para que te enfoques en hacer crecer tu negocio.
               </div>           
           </div>
           
+          <div className="box-block color2">            
+              <h3>
+              Si eres  <span class="strong">madre o padre</span> de familia o si <span class="strong">tienes a tu cargo niños </span>
+              </h3>
+              <ul>
+                <li>
+                  ¿Pierdes el control fácilmente con tus hijos, terminas regañando y gritando a tus hijos porque no te hicieron caso?
+                </li>
+                <li>
+                  ¿No sabes como educar a tus hijos e inculcarles valores para que aprendan a enfrentar la vida?
+                </li>
+                <li>
+                  ¿Sobreproteges a tus hijos, sabes el daño que les causa?
+                </li>
+                <li>
+                  ¿No sabes como manejar las emociones de tus hijos, no quieres que salga rebeldes, drogadicto, que no sepa relacionarse con los demás o que no tengan una vida social normal?
+                </li>
+                <li>
+                  ¿Quieres aprovechar al máximo el poco tiempo que puedes compartir y dedicar a su hijo?
+                </li>
+                <li>
+                  ¿Ser padres no implica sacrificar o dejar a un lado los sueños, sus actividades personales, hobbies, estudios, etc? 
+                </li>
+              </ul>
+              <div className="information">
+                Si quieres construir un futuro exitoso para sus hijos y si quieres potencializar el cerebro de tus hijos, haz parte de nuestro diplomado y transformate para que seas una gran mamá, un gran papa o un gran cuidador y ser humano para tus hijos.
+              </div>           
+          </div>
+
+          <div className="box-block color1">            
+              <h3>
+                Si eres una <span class="strong">persona o individuo:</span>
+              </h3>
+              <ul>
+                <li>
+                  ¿Depende de que otras personas decidan por usted?
+                </li>
+                <li>
+                  ¿Le cuesta tomar decisiones frente a situaciones cotidianas que se te presentan?
+                </li>
+                <li>
+                  ¿No te relacionas ni socializa fácilmente, te cuesta conseguir amigos o pareja?
+                </li>
+                <li>
+                  ¿No le encuentras sentido a nada de lo que haces, crees que no le aportas a la sociedad?
+                </li>
+                <li>
+                  ¿Te sientes inseguro de lo que haces, no tomas acción, te limitas y no asumes riesgos?
+                </li>
+              </ul>
+              <div className="information">
+              Si quieres dejar a un lado todas las limitaciones que tienes, haz parte de nuestro diplomado y transformate para que recuperes la confianza en ti y seas una persona exitosa.
+              </div>           
+          </div>
 
         </div>
      </Box>
